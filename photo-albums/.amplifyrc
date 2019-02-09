@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "photoalbums-20190209231931-authRole",
+            "UnauthRoleArn": "arn:aws:iam::781749372177:role/photoalbums-20190209231931-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::781749372177:role/photoalbums-20190209231931-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "photoalbums-20190209231931-deployment",
+            "UnauthRoleName": "photoalbums-20190209231931-unauthRole",
+            "StackName": "photoalbums-20190209231931",
+            "StackId": "arn:aws:cloudformation:us-east-1:781749372177:stack/photoalbums-20190209231931/b852f130-2c75-11e9-b849-12094f064940"
+        }
+    }
+}
